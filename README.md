@@ -1,2 +1,4 @@
-# Atividade-02
-Resolução de exercícios para estudo do módulo de Validando dados com Great Expectations utilizando a biblioteca Pandas.
+# Atividade 02 🖥️
+
+### -> [Atividade com o código](codigo/atividade%202.ipynb)
+### -> [Arquivos de dados utilizados](data)
